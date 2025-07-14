@@ -12,13 +12,7 @@ A machine learning project that classifies animals into biological classes based
 - [🤖 Model Selection](#-model-selection)  
 - [🧪 Evaluation Metrics](#-evaluation-metrics)  
 - [🚀 Deployment](#-deployment)  
-- [🐾 Example Predictions](#-example-predictions)  
-- [🔮 Future Scope](#-future-scope)  
-- [✅ Conclusion](#-conclusion)  
-- [🛠️ Tech Stack](#-tech-stack)  
-- [📚 References](#-references)
 
----
 
 ## 🔍 Project Overview
 
