@@ -1,4 +1,5 @@
-# 🧠 Animal Species Classification using XGBoost
+# 🧠 Zoological Classification Using Machine Learning
+
 
 A machine learning project that classifies animals into biological classes based on physical and behavioral traits like “milk,” “legs,” and “feathers” — using only binary inputs and the powerful XGBoost algorithm.
 
